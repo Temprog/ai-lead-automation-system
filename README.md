@@ -23,8 +23,8 @@ It is currently being developed to automate the process of capturing, analysing,
 ## 🛠️ Tech Stack
 
 - Python (for API interaction)
-- Zapier / Make (workflow automation)
-- OpenAI API (GPT)
+- Zapier (workflow automation)
+- GPT models (via Zapier AI – OpenAI) 
 - Google Forms & Google Sheets
 
 ---
